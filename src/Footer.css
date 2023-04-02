@@ -1,0 +1,18 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    /* background-color: #333; */
+    color: rgba(176, 211, 196, 0.562);
+    /* text-align: center; */
+    /* padding: 1rem; */
+  }
+  
+  .container {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    height: 100%;
+  }
+  
