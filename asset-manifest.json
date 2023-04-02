@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hahshtrit.github.io/static/css/main.7696efa8.css",
+    "main.css": "/hahshtrit.github.io/static/css/main.9228b61b.css",
     "main.js": "/hahshtrit.github.io/static/js/main.b606afc7.js",
     "static/media/background1.jpg": "/hahshtrit.github.io/static/media/background1.7a1c2096a22b3fe9c74d.jpg",
     "index.html": "/hahshtrit.github.io/index.html",
-    "main.7696efa8.css.map": "/hahshtrit.github.io/static/css/main.7696efa8.css.map",
+    "main.9228b61b.css.map": "/hahshtrit.github.io/static/css/main.9228b61b.css.map",
     "main.b606afc7.js.map": "/hahshtrit.github.io/static/js/main.b606afc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7696efa8.css",
+    "static/css/main.9228b61b.css",
     "static/js/main.b606afc7.js"
   ]
 }
