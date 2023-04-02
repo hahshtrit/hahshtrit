@@ -1,6 +1,6 @@
 {
-  "homepage": "https://hahshtrit.github.io/hahshtrit.github.io",
-  "name": "hahshtrit.github.io",
+  "homepage": "https://hahshtrit.github.io/hahstrit/",
+  "name": "hahshtrit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,12 +20,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -37,8 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
   }
 }

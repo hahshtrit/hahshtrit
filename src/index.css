@@ -36,13 +36,13 @@ img {
   }
   
   nav a {
-    color: rgba(243, 239, 239, 0.658);
+    color: rgba(243, 239, 239, 0.623);
     text-decoration: none;
     padding: 10px 20px;
   }
   
   nav a:hover {
-    background-color: rgb(119, 109, 109);
+    background-color: rgba(119, 109, 109, 0.966);
   }
 
   ul {
