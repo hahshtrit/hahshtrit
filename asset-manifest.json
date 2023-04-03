@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hahstrit/static/css/main.d1d430d9.css",
+    "main.css": "/hahstrit/static/css/main.86a02251.css",
     "main.js": "/hahstrit/static/js/main.b606afc7.js",
     "static/media/background1.jpg": "/hahstrit/static/media/background1.7a1c2096a22b3fe9c74d.jpg",
     "index.html": "/hahstrit/index.html",
-    "main.d1d430d9.css.map": "/hahstrit/static/css/main.d1d430d9.css.map",
+    "main.86a02251.css.map": "/hahstrit/static/css/main.86a02251.css.map",
     "main.b606afc7.js.map": "/hahstrit/static/js/main.b606afc7.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1d430d9.css",
+    "static/css/main.86a02251.css",
     "static/js/main.b606afc7.js"
   ]
 }
