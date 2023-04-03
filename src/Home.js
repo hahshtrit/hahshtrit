@@ -7,9 +7,7 @@ function Home(props) {
     <section className={props.active ? 'active' : ''}>
       <h1>Welcome to My Website</h1>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vitae
-        justo at lectus iaculis vestibulum. Proin nec ex vel augue faucibus
-        rhoncus.
+        Hello, my name is Tirth and I am software engineer, a health freak, and semi-hiker. 
       </p>
 
     </section>
